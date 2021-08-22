@@ -46,8 +46,7 @@
 
 ### Через Livejournal 
 
-Пользователи *Livejournal* могут добавить ссылки на другие социальные сети в разделе [Способы связи (External services)](https://www.livejournal.com/manage/settings/?cat=extensions).#### 
+Пользователи *Livejournal* могут добавить ссылки на другие социальные сети в разделе [Способы связи (External services)](https://www.livejournal.com/manage/settings/?cat=extensions).
 
-
-
+####
 Написать в службу поддержки
